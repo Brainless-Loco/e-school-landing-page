@@ -1,0 +1,140 @@
+*{
+    list-style: none;
+}
+.first{
+    min-height: 550px;
+    width: 100%;
+    background-color: #F0FFF0;
+}
+#logo{
+    width: 180px;
+    height: 55px;
+}
+.collapse ul li a{
+    color: black !important;
+    font-weight: 500;
+    font-size: 16px;
+}
+.sign-in{
+    padding: 10px 27px 10px 27px;
+    font-size: 15px;
+    border-radius: 25px;
+}
+.firsttext1{
+    font-weight: 500;
+    color: #FC551F;
+}
+.firsttext2 span{
+    color: #21B573;
+}
+.firsttext2{
+    color: black;
+    font-weight: bolder;
+    font-size: 60px;
+    line-height: 100%;
+}
+.firsttext3{
+    color: #6C6B6B;
+    font-size: 17px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.abouton{
+    background-color: #F8FFFB; 
+    border-radius: 8px;
+    height: 260px;
+    width: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.abouton:hover{
+    background-color: white;
+    box-shadow: 5px 5px 20px lightgrey;
+}
+.abouton .pfirst{
+    color: #413960;
+    margin-top: 20px;
+    font-size: 27px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.abouton .psecond{
+    color: #666767;
+    font-size: 15px;
+    font-weight: bold;
+}
+.onlinetitle{
+    color: #413960;
+}
+.onlineclass{
+    max-width: 350px;
+    border-radius: 16px;
+    border: none;
+    box-shadow: 3px 3px 20px lightgrey;
+}
+.card-title{
+    color: #413960;
+    font-size: 24px !important;
+}
+.card-body p{
+    color: #909090;
+    font-weight: 500;
+    font-size: 16px;
+}
+.card-body button{
+    padding: 7px 27px 7px 27px;
+    font-size: 15px;
+    border-radius: 25px;
+    background-color: #21B573;
+    color: white;
+}
+.card-body img{
+    width: 25px;
+    height: 25px;
+}
+.courseinfo{
+    color: #585859;
+    font-weight: 500;
+}
+.tesimonialtitle{
+    color: black;
+}
+.tesimonial{
+    min-height: 250px;
+}
+.tesimonial img{
+    width: 110px;
+    height: 110px;
+}
+.tesimonial p{
+    color: black;
+    margin-top: 10px;
+    margin-left: 18px;
+    font-size: 15.5px;
+    font-weight: 500;
+    line-height: 30px;
+}
+footer{
+    background-color: #282531;
+    min-height: 300px;
+    padding: 40px 0px 10px 0px;
+    width: 100%;
+    color: white;
+}
+footer p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+.course>p{
+    font-size: 17px;
+    font-weight: bolder;
+    margin-bottom: 5px;
+}
+.course ul li a{
+    color: white;
+}
+.course ul li{
+    margin-bottom: 8px;
+}
